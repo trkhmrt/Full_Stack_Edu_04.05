@@ -14,7 +14,7 @@ namespace _01_WEB_API_INITIAL.Controllers
         {
             List<string> list = new List<string>()
             {
-                "Muhammet","Engin","Nursena","Aleyna","Serdar","Tarık"
+                "Muhammet","Engin","Nursena","Aleyna","Serdar"
             };
             
             return list;
