@@ -1,3 +1,4 @@
+
 namespace _01_WEB_API_INITIAL;
 
 public class Program
@@ -26,9 +27,13 @@ public class Program
 
         app.UseAuthorization();
 
-
         app.MapControllers();
 
         app.Run();
+
+        
+
+        //21:30 MOLA BİTİŞ.
+
     }
 }

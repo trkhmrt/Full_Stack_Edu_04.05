@@ -1,6 +1,0 @@
-@_01_WEB_API_INITIAL_HostAddress = http://localhost:5191
-
-GET {{_01_WEB_API_INITIAL_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
